@@ -1,4 +1,4 @@
-# Identifying_Phishing_Characteristics
+# Identifying_Phishing_Characteristics--TASK2
 This project details the process of analyzing a suspicious email sample to systematically identify common phishing indicators and social engineering tactics. The goal is to develop practical threat detection skills and an awareness of cybersecurity best practices.
 
 The report structure includes:                 
